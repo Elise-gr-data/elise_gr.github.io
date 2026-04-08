@@ -1,8 +1,3 @@
-
----
-Accueil
----
-
 # Bonjour 👋
 
 Je suis Elise Grégoire, Data Analyste (formée au Wagon),
