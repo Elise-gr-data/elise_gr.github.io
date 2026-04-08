@@ -1,8 +1,13 @@
 </> Markdown
 
+---
+layout: default
+title: Accueil
+---
+
 # Bonjour 👋
 
-Je suis Elise Grégoire, Data Analyste (formée au Wagon),
+Je suis Elise Grégoire, Data Analyste (formée au Wagon),  
 dédiée à l'interprétation des données pour la prise de décisions
 
 ## 💼 Expérience
